@@ -27,7 +27,7 @@ html {
 body {
   height: 100%; /* helps make height 100% */
   font: 100%/1.5 Arial, Helvetica, sans-serif; /* 100% = 16px, 93.75% = 15px, 87.5% = 14px, 81.25% = 13px, 75% = 12px - font-size in % prevents IE's resize bug */
-  background: #f0f1f5 !important;
+  background: #e6f0ff !important;
 }
 /* ------------------ Typography ------------------- */
 h1,
