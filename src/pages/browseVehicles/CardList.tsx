@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { Grid, FormControl, InputLabel, Select, MenuItem, SelectChangeEvent, CardActions } from '@mui/material';
 import CarCard from './CarCard';
-import { fetchAvailableCars } from '../../services/browseCars';
+import { fetchAvailableCars } from '../../services/browseCarsService';
 import { CarModel } from '../../models/CarModel';
 
 function CarList() {
